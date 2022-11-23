@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "c256b6248a49718e7c093f7f8607141b6a00ba09ecb824b2999c241eb7d91dd3"
+            "sha256": "fc657d6d1bc71afc24f655204f23a52d14a4775bb65857ca541c27aa8154d4bd"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -59,10 +59,6 @@
         "cb-camera": {
             "editable": true,
             "path": "./modules/camera"
-        },
-        "cb-django-push-notifications": {
-            "editable": true,
-            "path": "./modules/django_push_notifications"
         },
         "certifi": {
             "hashes": [
